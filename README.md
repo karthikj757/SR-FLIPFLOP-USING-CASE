@@ -72,7 +72,54 @@ endmodule
  Thus the sr flipflop using verilog and validating their functionality using their functional tables is implemented and verified.
 
 
-
+.
+.
+.
+..
+.
+.
+.
+.
+.
+.
+..
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+..
+.
+.
+.
+..
+.
+..
+..
+.
+.
+.
+....
+.
+..
+..
+.
+.
+.
+.
+.
+.
+..
+.
+.
+.
+.
+.
 
 
 
